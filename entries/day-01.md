@@ -1,6 +1,6 @@
 # DAY ONE
 
-## What I learned
+## What I Learned
 Today, I learned (and practiced) how to:
 - Create a repository in GitHub
 - Clone it locally
@@ -18,3 +18,6 @@ What originally confused me was the difference between Git and GitHub, but it is
 
 ## One Question for Mitsi
 Should I use a Pull Request if I'm working by myself for good practices? Or is it fine if I just skip this step when merging a branch into main?
+
+## Today's Deliverable
+- Pull Request: https://github.com/jiarastogi/Jia-Internship-Journal/pull/1
