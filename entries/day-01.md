@@ -9,7 +9,8 @@ Today, I learned (and practiced) how to:
 - Push them
 - Open a Pull Request
 
-I watched this youtube video: https://www.youtube.com/watch?v=mJ-qvsxPHpY
+I watched this youtube video: https://www.youtube.com/watch?v=mJ-qvsxPHpY and have continued to add more git commands to my working document: https://docs.google.com/document/d/1muOEwW3layHdBApocpBY-R2TaELa4nJ7zJ2LQuZOnnE/edit
+
 I also learned why people use branches instead of working on main, as it helps keep the original code relaiable, while other changes are being developed and tested before potentially merging the branches.
 
 ## What Confused Me
