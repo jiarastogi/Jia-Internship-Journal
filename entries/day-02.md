@@ -6,10 +6,10 @@
 - The different slash commands for efficiency and calling certain tools
 
 ## What Confused Me
-- I still need more practice with Claude code and writing prompts
+I still need more practice with Claude code and writing prompts
 
 ## Question for Mitsi
-- None today.
+None today.
 
 ## Today’s Deliverable
 - Adding CLAUDE.md to Computing Profile
